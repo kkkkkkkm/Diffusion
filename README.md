@@ -36,8 +36,8 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
     * VCTK Speech Enhancement, SDE Diffusion Model  
 
 * SDE_Speech_Guided.ipynb
-    *  VCTK Speech Enhancement, SDE Diffusion Model
-    *  
+    *  VCTK Speech Enhancement, SDE Diffusion Model (Classifier-Guided)
+
  
 
 

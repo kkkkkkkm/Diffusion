@@ -7,7 +7,10 @@
 * 본 연구에서는 Diffusion Model을 활용하여 입력 화자의 음성 특징을 보존한 채 target 언어로 변환된 음성 생성을 생성하는 S2ST 모델 설계를 시도. 
 
 
-이미지 하나 넣으면 좋겠네
+
+
+이미지들이랑, 소리도 같이 넣을수 있나?
+
 
 
 
@@ -38,7 +41,7 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 * SDE_Speech_Guided.ipynb
     *  VCTK Speech Enhancement, SDE Diffusion Model (Classifier-Guided)
 
-###
+### 이건 내용
 안녕하세요, [교수님 성함] 교수님.
 저는 [현재 소속 학교 및 학과]에서 [전공 분야]를 공부하고 있는 [본인의 이름]입니다. 교수님의 연구 분야인 [교수님의 주요 연구 분야]에 깊은 관심을 가지고 박사 과정 지원과 관련하여 문의드리고자 이렇게 메일을 드립니다.
 

@@ -44,6 +44,8 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 * Speech_free_Guided_using_attention_with_DDIM_sampling.ipynb
     * Audio MNIST Generation, DDIM (classifier-free)
 
+</br>
+
 
 **Speech Enhancement**
 
@@ -54,6 +56,8 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 * SDE_Speech_Guided.ipynb
     *  VCTK Speech Enhancement, SDE Diffusion Model (Classifier-Guided)
+
+</br>
 
 ### 이건 내용
 안녕하세요, [교수님 성함] 교수님.

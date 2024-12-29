@@ -24,6 +24,9 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 </br>
 
+**Speech to Text Model**
+</br>
+
 <img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "60%" height = "60%">\
 
 * CVSS_STT_multi-decoder.ipynb
@@ -37,7 +40,6 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 * DDPM_Speech_free_Guided.ipynb
     * Audio MNIST Generation, DDPM (classifier-free)
-
 
 * Speech_free_Guided_using_attention_with_DDIM_sampling.ipynb
     * Audio MNIST Generation, DDIM (classifier-free)

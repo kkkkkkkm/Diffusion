@@ -22,11 +22,17 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 ## File
 
+</br>
+
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "80%" height = "80%">\
+
 * CVSS_STT_multi-decoder.ipynb
     * Shared Encoder Multi Decoder STT 모델
 
 * CVSS_STT_mutihead.ipynb
     * Shared Encoder Multi Decoder with muti-head attention  
+
+</br>
 
 
 * DDPM_Speech_free_Guided.ipynb

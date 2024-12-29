@@ -8,7 +8,7 @@
 
 </br>
 
-<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/S2ST_abs.png width = "100%" height = "100%">
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/S2ST_abs.png width = "80%" height = "80%">
 
 
 

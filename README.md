@@ -6,10 +6,11 @@
 * 최근 Diffusion Model은 생성 AI 분야에서 두각을 드러냄. 기존 생성 AI 모델 GAN과 비교하여 명시적으로 확률적 모델링을 기반으로 학습하기에 Mode Collapse의 빈도가 적으며, MultiModal 데이터 기반의 생성에서 경쟁력이 있음.
 * 본 연구에서는 Diffusion Model을 활용하여 입력 화자의 음성 특징을 보존한 채 target 언어로 변환된 음성 생성을 생성하는 S2ST 모델 설계를 시도. 
 
+</br>
+
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/S2ST_abs.png width = "100%" height = "100%">
 
 
-
-이미지들이랑, 소리도 같이 넣을수 있나?
 
 
 

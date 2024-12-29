@@ -24,7 +24,7 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 </br>
 
-<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "80%" height = "80%">\
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "60%" height = "60%">\
 
 * CVSS_STT_multi-decoder.ipynb
     * Shared Encoder Multi Decoder STT 모델

@@ -34,7 +34,7 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 **Speech Generation**
 
-<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "60%" height = "60%">\
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/diffusion_generation.png width = "60%" height = "60%">\
 
 
 * DDPM_Speech_free_Guided.ipynb
@@ -46,6 +46,7 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 **Speech Enhancement**
 
+<img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/diffusion_enhance.png width = "60%" height = "60%">\
 
 * SDE_Speech_Enhancement.ipynb
     * VCTK Speech Enhancement, SDE Diffusion Model  

@@ -34,7 +34,8 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 * CVSS_STT_mutihead.ipynb
     * Shared Encoder Multi Decoder with muti-head attention  
 
-</br>
+
+**Speech Generation**
 
 
 * DDPM_Speech_free_Guided.ipynb
@@ -42,6 +43,10 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 * Speech_free_Guided_using_attention_with_DDIM_sampling.ipynb
     * Audio MNIST Generation, DDIM (classifier-free)
+
+
+**Speech Enhancement**
+
 
 * SDE_Speech_Enhancement.ipynb
     * VCTK Speech Enhancement, SDE Diffusion Model  

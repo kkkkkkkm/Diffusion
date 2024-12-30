@@ -126,6 +126,11 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 ------------
 
+
+https://brunch.co.kr/@j-wisdom/15
+
+https://blog.naver.com/aidway/222129883667
+
 나는 2024년에 컴퓨터공학 석사를 받고 현재 국립농업과학원에서 석사후연구원을 수행하는 김강민이다. 
 
 농과원에서 식물 표현체 탐지 과제를 수행하며, 산업 데이터를 활용한 인공지능에 관심이 생겼다.

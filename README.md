@@ -143,6 +143,13 @@ https://blog.naver.com/aidway/222129883667
 교수님의 바쁘신 일정에도 불구하고 제 메일을 읽어주셔서 감사드립니다. 제 프로필이나 성과를 더 자세히 보고 싶으시면 첨부된 CV를 참고해 주시기 바랍니다
 
 
+----------------
+
+안녕하십니까, 저는 딥러닝 기반의 산업 데이터 전문가 되기 위해 고려대학교 대학원에 지원하게 된 김강민 입니다.
+제가 하고 싶은 연구는 Anomaly Detection, Multivariate Time Series Modeling, Diffusion
+
+
+
 
 
 

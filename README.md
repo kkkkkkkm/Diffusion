@@ -32,12 +32,13 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 </br>
 
+### Speech to Text Model
+
 
 <div align="center">
  
 <img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/E2E-STmodel.png width = "60%" height = "60%">
 
-**Speech to Text Model**
 
 </div>
 
@@ -52,18 +53,27 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 </br>
 
-
+### Speech Generation
 
 <div align="center">
  
 <img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/diffusion_generation.png width = "60%" height = "60%">
 
-**Speech Generation**
+
 
 </div>
 
 
 
+https://github.com/user-attachments/assets/e5beef21-a87f-4b26-ba58-b739ed639c9a
+
+
+
+https://github.com/user-attachments/assets/f67e02a4-eaa8-4a0c-b3f9-0aeb6d3d3e8a
+
+
+
+https://github.com/user-attachments/assets/f5e264cb-ea51-43f1-b4aa-e465730439c1
 
 
 
@@ -77,20 +87,29 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 </br>
 
 
+### Speech Enhancement
 
-<div align="center">
- 
+<div align="center"> 
 <img src = https://github.com/kkkkkkkm/Diffusion/blob/main/img/diffusion_enhance.png width = "60%" height = "60%">
-
-**Speech Enhancement**
-
 </div>
-
 
 
 https://github.com/user-attachments/assets/46a31d47-b026-418d-8700-0e0813e84035
 
 **VTCK female(Ask her to bring these things with her from the store)**
+
+
+
+https://github.com/user-attachments/assets/62cfb6d4-bc91-430f-b238-2ae1a43aa7e7
+
+https://github.com/user-attachments/assets/338ed671-8d00-4272-a450-a61080784e38
+
+https://github.com/user-attachments/assets/49ef35db-2a77-4542-9e2c-bea3aeb8b5be
+
+https://github.com/user-attachments/assets/a0618afb-c92b-428c-96b8-e7676ced2976
+
+
+
 
 
 

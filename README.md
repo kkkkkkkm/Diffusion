@@ -44,10 +44,6 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 
 
 
-
-
-
-
 * CVSS_STT_multi-decoder.ipynb
     * Shared Encoder Multi Decoder STT 모델
 
@@ -91,11 +87,18 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 </div>
 
 
+
+https://github.com/user-attachments/assets/46a31d47-b026-418d-8700-0e0813e84035
+
+**VTCK female(Ask her to bring these things with her from the store)**
+
+
+
 * SDE_Speech_Enhancement.ipynb
-    * VCTK Speech Enhancement, SDE Diffusion Model  
+    * Audio MNIST Speech Enhancement, SDE Diffusion Model  
 
 * SDE_Speech_Guided.ipynb
-    *  VCTK Speech Enhancement, SDE Diffusion Model (Classifier-Guided)
+    * Audio MNIST Speech Enhancement, SDE Diffusion Model (Classifier-Guided)
 
 </br>
 

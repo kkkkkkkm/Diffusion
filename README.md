@@ -91,8 +91,11 @@ DDPM 및 [SDE Diffusion Model](https://colab.research.google.com/drive/120kYYBOV
 </div>
 
 
+<audio controls>
+    <source src=./img/vctk_origin.wav>
+</audio>
 
-[vctk_origin](https://github.com/kkkkkkkm/Diffusion/blob/main/img/vctk_origin.wav)
+https://github.com/kkkkkkkm/Diffusion/blob/main/img/vctk_origin.wav
 
 * SDE_Speech_Enhancement.ipynb
     * VCTK Speech Enhancement, SDE Diffusion Model  

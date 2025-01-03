@@ -147,6 +147,7 @@ https://github.com/user-attachments/assets/a0618afb-c92b-428c-96b8-e7676ced2976
 국립농업과학원에서 식물의 표현체를 탐지하는 과제를 진행하던 와중 시계열과 같은 센서 데이터 
 
 ------------
+https://blog.naver.com/anthouse28/221077405435
 
 https://ie.korea.ac.kr/ie/about/info.do
 
